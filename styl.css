@@ -1,0 +1,11 @@
+body {
+    font-family:   'Tahoma', 'sans-serif';
+    background-color: rgb(120, 0, 156);
+}
+
+.centertext {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
